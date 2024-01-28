@@ -14,5 +14,9 @@ This project is a simple replica of Linktree. It contains multiple links to vari
 ## Screenshot
 ![Link-Tree Clone](public/Screenshot.jpg)
 
+## Website
+Visit the deployed website: [JosephIsCool](josephiscool.netlify.app)
+
+
 ## Acknowledgements
 - Inspiration: Linktree (https://linktr.ee)
